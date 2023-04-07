@@ -5,10 +5,16 @@ I am excited to announce the creation of a repository that focuses on the tabula
 
 **To implement the tabulation method, the following steps can be followed:**
 
-Visualize the problem as a table
-Determine the size of the table based on the inputs
-Initialize the table with default values
-Seed the table with the base case or trivial answer
-Iterate through the table
-Fill further positions based on the current position
+1.)Visualize the problem as a table
+
+2.)Determine the size of the table based on the inputs
+
+3.)Initialize the table with default values
+
+4.)Seed the table with the base case or trivial answer
+
+5.)Iterate through the table
+
+6.)Fill further positions based on the current position
+
 Inside the "dynamic programming" subfolder of the repository, there are various problems and their solutions that can be solved using the tabulation method. I encourage contributions to this repository and the addition of new problems and solutions using this efficient approach.
