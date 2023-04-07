@@ -1,7 +1,8 @@
 # dynamic-programming--using-tabulation
 
 **TABULATION**
-I am excited to announce the creation of a repository that focuses on the tabulation approach of dynamic programming. As someone who loves this method, I appreciate how it efficiently solves complex problems by breaking them down into smaller subproblems and storing solutions in a table or matrix. I believe this approach provides the best time complexity for most problems, even if it requires slightly more time than some other solutions.
+
+This repo focuses on the tabulation approach of dynamic programming. As someone who loves this method, I appreciate how it efficiently solves complex problems by breaking them down into smaller subproblems and storing solutions in a table or matrix. I believe this approach provides the best time complexity for most problems, even if it requires slightly more time than some other solutions.
 
 **To implement the tabulation method, the following steps can be followed:**
 
