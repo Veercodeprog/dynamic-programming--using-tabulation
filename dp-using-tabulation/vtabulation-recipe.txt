@@ -1,0 +1,13 @@
+1.)visualize the problem as a table
+2.)size the table based on the inputs
+3.)initialize the table with default values
+4.)seed the trivial answer into the table i.e. base case
+5.)iterate through the table
+6.)fill further positions based on the current position
+
+https://workat.tech/problem-solving/lists/faang-interview-questions/practice
+https://github.com/ombharatiya/FAANG-Coding-Interview-Questions#faang-must-do-problems
+https://www.pepcoding.com/most-important-interview-questions-list-for-product-based-companies
+https://dev.to/bitpunchz/51-important-algorithms-coding-interview-questions-asked-at-faang-chf
+
+https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/
