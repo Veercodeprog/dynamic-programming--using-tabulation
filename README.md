@@ -18,3 +18,5 @@ I am excited to announce the creation of a repository that focuses on the tabula
 6.)Fill further positions based on the current position
 
 Inside the "dynamic programming" subfolder of the repository, there are various problems and their solutions that can be solved using the tabulation method. I encourage contributions to this repository and the addition of new problems and solutions using this efficient approach.
+
+you can add your problems directly by adding links to this file or adding your solution for any problem in any language of your choice in a folder.
